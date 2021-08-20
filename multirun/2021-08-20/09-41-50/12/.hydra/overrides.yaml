@@ -1,3 +1,0 @@
-- main.steps='train_random_forest'
-- modeling.max_tfidf_features=30
-- modeling.random_forest.max_features=0.5
