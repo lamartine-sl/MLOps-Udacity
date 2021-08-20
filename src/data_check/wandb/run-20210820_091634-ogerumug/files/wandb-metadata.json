@@ -1,0 +1,34 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.6",
+    "heartbeatAt": "2021-08-20T12:16:35.796721",
+    "startedAt": "2021-08-20T12:16:34.712239",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/lamartine-sl/MLOps-Udacity.git",
+        "commit": "00224b5a465031ea117f2d34bfdd5d47e960cd07"
+    },
+    "email": "lamartine_sl@hotmail.com",
+    "root": "/home/lamartine/MLOps-Udacity",
+    "host": "LAMARTINE",
+    "username": "lamartine",
+    "executable": "/home/lamartine/miniconda3/envs/mlflow-d1fd4b13aac386abe6aa5a2ada1ca11214902ce4/bin/python"
+}

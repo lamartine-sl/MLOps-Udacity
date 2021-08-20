@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lamartine/MLOps-Udacity/mlruns/0/52dab7ddbe22492b8b663ff5f37b7762/artifacts
+end_time: 1629464255374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 52dab7ddbe22492b8b663ff5f37b7762
+run_uuid: 52dab7ddbe22492b8b663ff5f37b7762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629464253144
+status: 3
+tags: []
+user_id: lamartine
