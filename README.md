@@ -4,6 +4,25 @@ This repository contains the codes for the projects of the [Machine Learning Dev
 
 Este repositório contém os códigos para os projetos do [Machine Learning DevOps Engineer Nanodegree](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821).
 
+In the first lesson, I will learn about **coding best practices**:
+* Writing clean and modular code
+* Refactoring code
+* Optimizing code for efficiency
+* Writing documentation
+* Following PEP8 guidelines and linting
+
+Then in the second lesson, we will look at taking your **version control skills** to the next level.
+* Review of the add, commit, and push
+* Branching
+* Common version control workflows
+* Code reviews
+
+In the third lesson, you will learn the needed **software skills to prepare your code for production**.
+* Testing
+* Logging
+* Model drift
+* Automated vs. non-automated retraining
+
 # Projects
 
 - ## **Predict Customer Churn with clean code [(`customer-churn-udacity`)](https://github.com/lamartine-sl/MLOps-Udacity/tree/customer-churn-udacity)**</br>
