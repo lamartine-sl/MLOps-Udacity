@@ -12,7 +12,7 @@ In the first lesson, I will learn about **coding best practices**:
 * Following PEP8 guidelines and linting
 
 Then in the second lesson, we will look at taking your **version control skills** to the next level.
-* Review of the add, commit, and push
+* Review of the `add`, `commit`, and `push`
 * Branching
 * Common version control workflows
 * Code reviews
