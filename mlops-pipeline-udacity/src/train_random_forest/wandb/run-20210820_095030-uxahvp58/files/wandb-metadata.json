@@ -1,0 +1,37 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-08-20T12:50:31.636847",
+    "startedAt": "2021-08-20T12:50:30.810694",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/lamartine/MLOps-Udacity/multirun/2021-08-20/09-41-50/12/rf_config.json",
+        "--max_tfidf_features",
+        "30",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/lamartine-sl/MLOps-Udacity.git",
+        "commit": "00224b5a465031ea117f2d34bfdd5d47e960cd07"
+    },
+    "email": "lamartine_sl@hotmail.com",
+    "root": "/home/lamartine/MLOps-Udacity",
+    "host": "LAMARTINE",
+    "username": "lamartine",
+    "executable": "/home/lamartine/miniconda3/envs/mlflow-cd3b4f52f7dead4ede9554d420a1b9da8d8db1e3/bin/python"
+}

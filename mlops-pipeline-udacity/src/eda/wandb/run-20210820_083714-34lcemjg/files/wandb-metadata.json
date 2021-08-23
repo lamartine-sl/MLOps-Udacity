@@ -1,0 +1,32 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.6",
+    "heartbeatAt": "2021-08-20T11:37:15.250382",
+    "startedAt": "2021-08-20T11:37:14.420671",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"b030e4fa-2d0c-4108-9fc2-560e46ff6de9\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=/tmp/tmp-2389tlzs5aGYVYtL.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/lamartine-sl/MLOps-Udacity.git",
+        "commit": "00224b5a465031ea117f2d34bfdd5d47e960cd07"
+    },
+    "email": "lamartine_sl@hotmail.com",
+    "root": "/home/lamartine/MLOps-Udacity",
+    "host": "LAMARTINE",
+    "username": "lamartine",
+    "executable": "/home/lamartine/miniconda3/envs/nyc_airbnb_dev/bin/python"
+}
